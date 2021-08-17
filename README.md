@@ -1,9 +1,7 @@
-# Laravel-Clase1Ej1
-<p>Ejemplo 1 del Tutorial de Laravel Framework <b>Clase 1</b> </p> 
+# Laravel-Clase3Ej2
+<p>Ejemplo 2 del Tutorial de Laravel Framework <b>Clase 3</b> </p> 
 <ul>
-  <li> Ejemplo de rutas básicas</li>
-  <li> Redirección de rutas</li>
-  <li> Añadir parametros a rutas </li>
+  <li> Ejemplo CRUD básico</li>
 </ul>
 <br>
 <p> <b> Como instalar y utilizar este ejemplo </b></p>
